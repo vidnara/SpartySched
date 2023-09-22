@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "71706114645",
+    "project_id": "yego-6f902",
+    "storage_bucket": "yego-6f902.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71706114645:android:7bda61bfb9fbcec775b2dc",
+        "android_client_info": {
+          "package_name": "com.example.SpartySched"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71706114645-0erdj419c415g8lkbqikue2dns5an6lt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIylQvpXvXzqEdsE7Fy_YxX7aCXB7aNJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71706114645-0erdj419c415g8lkbqikue2dns5an6lt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
